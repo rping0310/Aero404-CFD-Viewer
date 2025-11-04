@@ -1,4 +1,4 @@
-<img width="1847" height="1049" alt="image" src="https://github.com/user-attachments/assets/cd565fd9-5a5e-40e8-93c9-db2590d26964" /># AERO404 CFD VIEWER v1.0
+<img width="1847" height="1049" alt="image" src="https://github.com/user-attachments/assets/2a2ebd2e-cb72-4dc6-9a65-5ef7aa55d0f8" /># AERO404 CFD VIEWER v1.0
 
 A lightweight CFD (Computational Fluid Dynamics) result visualization tool for viewing and comparing simulation cases with slice images and 3D STL models.
 
