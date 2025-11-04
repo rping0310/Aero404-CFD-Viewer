@@ -1,4 +1,4 @@
-# AERO404 CFD VIEWER v1.0
+<img width="1847" height="1049" alt="image" src="https://github.com/user-attachments/assets/cd565fd9-5a5e-40e8-93c9-db2590d26964" /># AERO404 CFD VIEWER v1.0
 
 A lightweight CFD (Computational Fluid Dynamics) result visualization tool for viewing and comparing simulation cases with slice images and 3D STL models.
 
@@ -50,6 +50,7 @@ Aero404 CFD Viewer is designed for aerodynamics engineers and researchers, parti
 - Load and browse multiple CFD cases from a directory
 - Sort cases by name or aerodynamic coefficients (CL, CD, etc.)
 - Display case parameters and simulation results in organized tables
+![Uploading image.png…]()
 
 ### 🖼️ Slice Viewer
 - View velocity/pressure slice images across different planes
@@ -57,12 +58,14 @@ Aero404 CFD Viewer is designed for aerodynamics engineers and researchers, parti
 - Variable playback speed (0.2x to 2.0x)
 - Zoom and pan for detailed inspection (mouse wheel + drag)
 - Image caching for smooth playback
+<img width="1847" height="1049" alt="image" src="https://github.com/user-attachments/assets/925099f0-0857-4a1b-b3a4-a2742decb5c1" />
 
 ### 🎨 3D STL Viewer
 - Load and render Q-criterion isosurface STL files
 - Interactive 3D rotation, zoom, and pan
 - Wireframe display mode
 - Camera reset to default view
+<img width="1849" height="1049" alt="image" src="https://github.com/user-attachments/assets/2a2ebd2e-cb72-4dc6-9a65-5ef7aa55d0f8" />
 
 ### 🔄 Case Comparison
 - Load main and sub cases simultaneously
