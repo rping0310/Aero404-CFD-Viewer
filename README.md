@@ -398,7 +398,7 @@ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
 - **Author:** Lin Ping
 - **Email:** rpingrider@gmail.com
 - **GitHub:** https://github.com/rping0310
-- **Organization:** Aero404
+- **Organization:** NTHURacing
 
 ### Bug Reports
 Please report bugs via GitHub Issues or email with:
