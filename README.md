@@ -1,4 +1,4 @@
-# Aero404 CFD Viewer v2.0
+# Aero404 CFD Viewer V2.0
 ## Cross-Platform Edition
 
 A lightweight CFD (Computational Fluid Dynamics) result visualization tool for viewing and comparing simulation cases with slice images and 3D STL models.
