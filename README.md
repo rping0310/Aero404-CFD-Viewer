@@ -48,6 +48,8 @@ Aero404 CFD Viewer is designed for **Formula Student aerodynamics teams** and mo
 - Load multiple CFD cases from local or network directories
 - Sort by name or aerodynamic coefficients (CL, CD, DF, etc.)
 - Display case parameters and results in organized tables
+  <img width="1918" height="1045" alt="image" src="https://github.com/user-attachments/assets/43c58451-5527-488b-929c-394369a4bf8c" />
+
 
 ### 🖼️ Slice Viewer
 - View velocity/pressure/temperature slice images
@@ -55,12 +57,16 @@ Aero404 CFD Viewer is designed for **Formula Student aerodynamics teams** and mo
 - Zoom (100%-500%) and pan with mouse wheel + drag
 - Frame-by-frame navigation with keyboard shortcuts (J/L)
 - Image caching for smooth playback
+  <img width="1918" height="1045" alt="image" src="https://github.com/user-attachments/assets/33fd7df9-b7cc-404f-b441-4d3cd9f1b72e" />
+
 
 ### 🎨 3D STL Viewer
 - Load and render Q-criterion isosurface STL files
 - Interactive 3D rotation, zoom, and pan
 - Wireframe/surface display modes
 - Camera reset to default view
+  <img width="1918" height="1045" alt="image" src="https://github.com/user-attachments/assets/374307f2-f241-4552-a125-6c1c4ac47b15" />
+
 
 ### 🔄 Case Comparison
 - Load main and sub cases simultaneously
