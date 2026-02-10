@@ -7,7 +7,7 @@ A lightweight CFD (Computational Fluid Dynamics) result visualization tool for v
 **Release Date:** November 23, 2025  
 **License:** Non-Commercial Use Only
 
-**Supported Platforms:** ✅ Windows 10/11 | ✅ Linux (Ubuntu 20.04+) | ✅ macOS
+**Supported Platforms:** ✅ Windows 10/11 | ✅ Linux (Ubuntu 20.04+) 
 
 ---
 
