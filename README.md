@@ -1,4 +1,4 @@
-# Aero404 CFD Viewer V2.0
+# NTHURacing CFD Viewer V2.0
 ## Cross-Platform Edition
 
 A lightweight CFD (Computational Fluid Dynamics) result visualization tool for viewing and comparing simulation cases with slice images and 3D STL models.
@@ -31,7 +31,7 @@ A lightweight CFD (Computational Fluid Dynamics) result visualization tool for v
 
 ## Overview
 
-Aero404 CFD Viewer is designed for **Formula Student aerodynamics teams** and motorsport engineers to efficiently review CFD simulation results without expensive commercial software.
+NTHURacing CFD Viewer is designed for **Formula Student aerodynamics teams** and motorsport engineers to efficiently review CFD simulation results without expensive commercial software.
 
 ### Core Capabilities
 - Browse and compare multiple simulation cases
@@ -454,7 +454,7 @@ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
 **Author:** Lin Ping  
 **Email:** rpingrider@gmail.com  
 **GitHub:** https://github.com/rping0310  
-**Organization:** Aero404
+**Organization:** NTHURacing
 
 ### Bug Reports
 Report via GitHub Issues or email with:
@@ -468,7 +468,7 @@ Submit via email or GitHub Issues
 
 ---
 
-**Thank you for using Aero404 CFD Viewer!**
+**Thank you for using NTHURacing CFD Viewer!**
 
 *Designed for Formula Student aerodynamics teams worldwide.*
 
