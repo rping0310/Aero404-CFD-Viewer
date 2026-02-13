@@ -4,7 +4,7 @@
 A lightweight CFD visualization tool for Formula Student teams to review simulation results with slice images, 3D models, and convergence monitoring.
 
 **Author:** Lin Ping  
-**Release Date:** February 12, 2026  
+**Release Date:** February 14, 2026  
 **License:** Non-Commercial Use Only
 
 **Platforms:** ✅ Windows 10/11 | ✅ Linux (Ubuntu 20.04+)
