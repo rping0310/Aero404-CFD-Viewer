@@ -1,4 +1,4 @@
-# NTHURacing CFD Viewer V2.1
+# Aero404 CFD Viewer V2.1
 ## Real-time Monitoring Edition
 
 A lightweight CFD visualization tool for Formula Student teams to review simulation results with slice images, 3D models, and convergence monitoring.
@@ -297,6 +297,6 @@ For commercial licensing: rpingrider@gmail.com
 
 ---
 
-**Thank you for using NTHURacing CFD Viewer V2.1!**
+**Thank you for using Aero404 CFD Viewer V2.1!**
 
 *Designed for Formula Student aerodynamics teams worldwide.*
