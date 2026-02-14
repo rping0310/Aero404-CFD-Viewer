@@ -112,7 +112,9 @@ A lightweight CFD visualization tool for Formula Student teams to review simulat
 **Quick Install:**
 ```bash
 sudo apt update
-sudo apt install -y python3-pyqt6 python3-vtk9 python3-numpy python3-pyqtgraph
+sudo apt install -y python3-pip
+sudo apt remove -y python3-pyqt6 python3-vtk9 python3-pyqtgraph
+pip3 install --break-system-packages PyQt6 vtk numpy pyqtgraph
 ```
 
 **Run:**
