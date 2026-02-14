@@ -253,6 +253,15 @@ sudo apt install python3-pyqtgraph
 ```bash
 sudo apt install libxcb-cursor0 libxcb-icccm4 libxcb-image0
 ```
+**VTK 9.1 Compatibility Issue**
+
+Ubuntu apt package `python3-vtk9` (version 9.1.0) has compatibility issues with PyQt6 on some systems.
+
+- Solution:Upgrade to VTK 9.3+ using pip
+```bash
+sudo apt remove -y python3-pyqt6 python3-vtk9 python3-pyqtgraph
+pip3 install --break-system-packages PyQt6 vtk numpy pyqtgraph
+```
 
 ### Plots Page
 
