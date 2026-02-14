@@ -82,6 +82,8 @@ A lightweight CFD visualization tool for Formula Student teams to review simulat
 - Q-criterion isosurface visualization
 - Interactive rotation/zoom/pan
 - Wireframe/surface modes
+<img width="2100" height="1115" alt="image" src="https://github.com/user-attachments/assets/9333acbb-c15d-42d8-af13-36ebe73c8d4f" />
+
 
 ### 🔄 Case Comparison
 - Side-by-side Main/Sub cases
