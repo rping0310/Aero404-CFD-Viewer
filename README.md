@@ -65,25 +65,27 @@ A lightweight CFD visualization tool for Formula Student teams to review simulat
 - Load multiple cases from local/network folders
 - Sort by aerodynamic coefficients
 - Display parameters and results in tables
+<img width="1918" height="1083" alt="image" src="https://github.com/user-attachments/assets/3b101cc8-02a5-4afb-9752-93aee53b2ea8" />
 
 ### 🖼️ Slice Viewer
 - View velocity/pressure/temperature slices
 - Playback controls (forward/reverse, variable speed)
 - Zoom (100%-500%) and pan
 - Keyboard shortcuts (J/L for play)
+<img width="1919" height="1082" alt="image" src="https://github.com/user-attachments/assets/25141982-1775-4c0b-8e0b-dee503143ca5" />
 
 ### 📊 Plots (NEW in V2.1)
 - Real-time CSV monitoring
 - Residuals with log scale
 - Forces with linear scale
 - Interactive data inspection
-<img width="2100" height="1115" alt="image" src="https://github.com/user-attachments/assets/9333acbb-c15d-42d8-af13-36ebe73c8d4f" />
-
+<img width="1919" height="1048" alt="image" src="https://github.com/user-attachments/assets/4ffa811b-8897-4df8-8d03-592ff29f908b" />
 
 ### 🎨 3D STL Viewer
 - Q-criterion isosurface visualization
 - Interactive rotation/zoom/pan
 - Wireframe/surface modes
+<img width="1849" height="1049" alt="image" src="https://github.com/user-attachments/assets/1c67c5b2-9060-4922-94c9-086a43d100c1" />
 
 ### 🔄 Case Comparison
 - Side-by-side Main/Sub cases
